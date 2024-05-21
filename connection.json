@@ -1,7 +1,7 @@
 {
-  "account"   : "",
-  "user"      : "",
-  "password"  : "",
+  "account"   : "ecdsfar-cu74147",
+  "user"      : "ARUMUGAMDE",
+  "password"  : "Oracle@123",
   "role"      : "ACCOUNTADMIN",
   "warehouse" : "DASH_L",
   "database"  : "DASH_DB",
